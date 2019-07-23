@@ -1,0 +1,35 @@
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 5em;
+  
+ background-color:#F0F8FF;
+ 
+ color: #778899;
+
+}
+p {
+    font-size: 40px;
+}
+ul {
+ font-family: "arial";
+ font-size: 30px;
+
+}
+
+h1 {
+    font-size:50px;
+    text-align: center;
+}
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.food {
+    border-color:pink;
+}
+p1{
+    font-size:30px; 
+    
+}
